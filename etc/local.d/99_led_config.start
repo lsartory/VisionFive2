@@ -1,0 +1,1 @@
+echo mmc1 > /sys/class/leds/ack/trigger
