@@ -1,0 +1,5 @@
+Origin:
+https://github.com/starfive-tech/linux.git
+
+Branch:
+JH7110_VisionFive2_devel
