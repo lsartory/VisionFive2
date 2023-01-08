@@ -13,6 +13,7 @@ net-wireless/hostapd
 net-wireless/iw
 sys-apps/busybox
 sys-apps/usbutils
+sys-apps/watchdog
 sys-fs/btrfs-progs
 sys-fs/dosfstools
 sys-kernel/linux-firmware
