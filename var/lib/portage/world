@@ -16,6 +16,7 @@ sys-apps/usbutils
 sys-apps/watchdog
 sys-fs/btrfs-progs
 sys-fs/dosfstools
+sys-fs/mtd-utils
 sys-kernel/linux-firmware
 sys-process/htop
 www-client/links
