@@ -1,12 +1,12 @@
-config_eth0="null"
-config_eth1="null"
+config_end0="null"
+config_end1="null"
 
 modules_wlp1s0u1u1="!iw !iwconfig !wpa_supplicant"
 config_wlp1s0u1u1="null"
 modules_wlp1s0u1u3="!iw !iwconfig !wpa_supplicant"
 config_wlp1s0u1u3="null"
 
-bridge_br0="eth0 eth1"
+bridge_br0="end0 end1"
 config_br0="192.168.0.201/24"
 routes_br0="default via 192.168.0.254"
 dns_servers_br0="8.8.8.8 1.1.1.1"
