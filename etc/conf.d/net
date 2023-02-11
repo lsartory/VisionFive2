@@ -1,10 +1,10 @@
 config_end0="null"
 config_end1="null"
 
-modules_wlp1s0u1u1="!iw !iwconfig !wpa_supplicant"
-config_wlp1s0u1u1="null"
-modules_wlp1s0u1u3="!iw !iwconfig !wpa_supplicant"
-config_wlp1s0u1u3="null"
+modules_wlp1s0u1="!iw !iwconfig !wpa_supplicant"
+config_wlp1s0u1="null"
+modules_wlp1s0u3="!iw !iwconfig !wpa_supplicant"
+config_wlp1s0u3="null"
 
 bridge_br0="end0 end1"
 config_br0="192.168.0.201/24"
