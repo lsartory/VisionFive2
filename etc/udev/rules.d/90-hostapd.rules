@@ -1,0 +1,2 @@
+# Rule to automatically restart the hostapd service when the rtl88x2bu dongle fails
+ACTION=="move", ATTRS{idVendor}=="0bda", ATTRS{idProduct}=="b812", RUN+="/bin/sh -c '/sbin/rc-service local status && /usr/bin/sleep 2 && /sbin/rc-service hostapd restart'"
