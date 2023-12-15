@@ -19,4 +19,5 @@ sys-fs/dosfstools
 sys-fs/mtd-utils
 sys-kernel/linux-firmware
 sys-process/htop
+virtual/cron
 www-client/links

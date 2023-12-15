@@ -1,1 +1,1 @@
-sys-devel/gcc notmpfs.conf
+sys-devel/gcc notmpfs.conf make-j2.conf
